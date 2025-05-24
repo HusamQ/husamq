@@ -28,3 +28,9 @@ Designed a scalable data warehouse, implemented star schema, and wrote efficient
 ### Let's Connect
 - [LinkedIn](https://linkedin.com/in/husamqarawi)
 - [Email](husamtq@gmail.com)
+
+  ---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=husamq.husamq" alt="visitor badge"/>
+</p>
