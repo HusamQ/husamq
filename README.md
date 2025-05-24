@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Husam 👋
 
-<!--
-**HusamQ/husamq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst who turns messy, raw data into powerful insights. I specialize in building dashboards, writing complex SQL queries, and creating data pipelines using modern tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+
+🔹 [Sales Dashboard – Power BI](https://github.com/husamq/sales-powerbi-project)  
+Interactive dashboard analyzing regional sales trends and product category performance.
+
+🔹 [Customer Churn – SQL + Python](https://github.com/husamq/churn-prediction-sql)  
+Used SQL for data wrangling and Python for building a churn prediction model.
+
+🔹 [Snowflake Data Warehouse](https://github.com/husamq/snowflake-data-warehouse)  
+Designed a scalable data warehouse, implemented star schema, and wrote efficient Snowflake SQL queries.
+
+---
+
+### 🧰 Tools & Technologies
+- **Languages:** Python, SQL
+- **Data Tools:** Power BI, Tableau, Excel, Jupyter
+- **Cloud & Storage:** Snowflake, PostgreSQL
+- **Libraries:** pandas, numpy, seaborn, matplotlib
+
+---
+
+### 📬 Let's Connect
+- [LinkedIn](https://linkedin.com/in/husamqarawi)
+- [Email](husamtq@gmail.com)
