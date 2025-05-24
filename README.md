@@ -6,13 +6,13 @@ I'm a data analyst who turns messy, raw data into powerful insights. I specializ
 
 ### 📊 Featured Projects
 
-🔹 [Sales Dashboard – Power BI](https://github.com/husamq/sales-powerbi-project)  
+* [Sales Dashboard – Power BI](https://github.com/husamq/sales-powerbi-project)  
 Interactive dashboard analyzing regional sales trends and product category performance.
 
-🔹 [Customer Churn – SQL + Python](https://github.com/husamq/churn-prediction-sql)  
+* [Customer Churn – SQL + Python](https://github.com/husamq/churn-prediction-sql)  
 Used SQL for data wrangling and Python for building a churn prediction model.
 
-🔹 [Snowflake Data Warehouse](https://github.com/husamq/snowflake-data-warehouse)  
+* [Snowflake Data Warehouse](https://github.com/husamq/snowflake-data-warehouse)  
 Designed a scalable data warehouse, implemented star schema, and wrote efficient Snowflake SQL queries.
 
 ---
