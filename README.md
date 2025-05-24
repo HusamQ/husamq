@@ -1,4 +1,4 @@
-# Hi, I'm Husam 👋
+# About Me 👋
 
 I'm a data analyst who turns messy, raw data into powerful insights. I specialize in building dashboards, writing complex SQL queries, and creating data pipelines using modern tools.
 
